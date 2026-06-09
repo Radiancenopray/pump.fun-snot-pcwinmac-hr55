@@ -1,4 +1,4 @@
-# 
+# Avancé pump.fun sniper bot préréglages pour Mac OS | Léger pump.fun sniper bot préréglages pour PC Windows. Avec extraction MEV et tests de simulation — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
